@@ -44,7 +44,7 @@ Before getting started, ensure you have the following installed:
 
  ### 2.Download and Setup the Project <br>
  - **Clone the Repository** <br>
-      git clone https://github.com/dileesha8/smart-task-planner.git<br>
+      Download the repo
       cd smart-task-planner<br>
       Backend Setup (FastAPI + Mistral)<br>
       Go to backend folder:<br>
